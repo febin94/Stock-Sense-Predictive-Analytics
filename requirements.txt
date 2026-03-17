@@ -1,0 +1,8 @@
+dash>=2.0.0
+dash-bootstrap-components>=1.0.0
+pandas>=1.5.0
+yfinance>=0.2.0
+plotly>=5.0.0
+numpy>=1.23.0
+joblib>=1.2.0
+scikit-learn>=1.2.0
